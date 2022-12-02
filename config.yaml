@@ -38,20 +38,22 @@ params:
   large_breakpoint: 64em
   medium_breakpoint: 42em
 
+  # Color palette: https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500
+
   # Header colors
   header_heading_color: "#fff"
-  header_background_color: "#159957"
-  header_background_color_secondary: "#155799"
+  header_background_color: "#023047"
+  header_background_color_secondary: "#219EBC"
 
   # Text colors
-  section_headings_color: "#159957"
+  section_headings_color: "#023047"
   body_text_color: "#606c71"
-  body_link_color: "#1e6bb8"
+  body_link_color: "#219EBC"
   blockquote_text_color: "#819198"
 
   # Code colors
-  code_background_color: "#f3f6fa"
-  code_text_color: "#567482"
+#  code_background_color: "#f3f6fa"
+#  code_text_color: "#567482"
 
   # Border colors
   border_color: "#dce6f0"
