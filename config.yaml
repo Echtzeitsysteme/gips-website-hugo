@@ -1,0 +1,82 @@
+baseURL: https://gips-framework.org
+languageCode: en-us
+defaultContentLanguage: en
+title: GIPS Project Site
+theme: ["hugo-cloak-email", "cayman-hugo-theme"]
+
+# Syntax highlighting
+pygmentsCodefences: true
+pygmentsStyle: pygments
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+params:
+  # Header text, can be markdown
+  project_name: "![](/img/emoflon_logo_with_tex_semitransparent_300px.png)"
+  project_tagline: "**GIPS** is a tool to built tools that automatically derive ILP problems from given graph specifications."
+
+  # Theme customizations by us
+  frontpage_text: ""
+
+  # Date format for post list and single pages
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: 2006-01-02
+
+  # Footer text, can be markdown
+  footer: "&copy; 2012-2022 [GIPS Dev Team](/dev-team) &bull; Built with [Hugo](https://gohugo.io/) &bull; [Theme](https://github.com/zwbetz-gh/cayman-hugo-theme) &bull; [Legal Notice](https://www.es.tu-darmstadt.de/impressum) &bull; [Privacy Policy](https://www.es.tu-darmstadt.de/es/datenschutzerklaerung) &bull; [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)."
+
+  # If true, make sure to include resources locally
+  # If true, the CSS/JS for Katex math typesetting are enabled
+  katex: false
+
+  # Breakpoints
+  large_breakpoint: 64em
+  medium_breakpoint: 42em
+
+  # Header colors
+  header_heading_color: "#fff"
+  header_background_color: "#159957"
+  header_background_color_secondary: "#155799"
+
+  # Text colors
+  section_headings_color: "#159957"
+  body_text_color: "#606c71"
+  body_link_color: "#1e6bb8"
+  blockquote_text_color: "#819198"
+
+  # Code colors
+  code_background_color: "#f3f6fa"
+  code_text_color: "#567482"
+
+  # Border colors
+  border_color: "#dce6f0"
+  table_border_color: "#e9ebec"
+  hr_border_color: "#eff0f1"
+
+menu:
+  nav:
+    - name: News
+      url: /
+      weight: 1
+    - name: "Getting Started"
+      url: /getting-started/
+      weight: 2
+    - name: "Development"
+      url: /dev/
+      weight: 3
+    - name: "Download"
+      url: /download/
+      weight: 4
+    - name: "Publications"
+      url: /publications/
+      weight: 5
+    - name: "Contact"
+      url: /contact/
+      weight: 8
+#    - name: RSS
+#      url: /index.xml
+#      weight: 9

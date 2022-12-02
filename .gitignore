@@ -1,0 +1,5 @@
+resources/
+public/
+hugo_stats.json
+hugo
+.hugo_build.lock

@@ -1,0 +1,65 @@
+name: Build GIPS website
+on:
+  push:
+    # Run pipeline for commits on branch 'main' and on 'testing/<stuff>'
+    branches:
+      - main
+      - 'testing/**'
+      - 'feature/**'
+      - 'hotfix/**'
+
+env:
+  # Hugo version to use
+  VERSION: "0.101.0"
+  # Hugo release source
+  HUGO_RELEASE_SRC: "https://github.com/gohugoio/hugo/releases"
+
+jobs:
+  hugo-build:
+    runs-on: [ubuntu-20.04]
+    steps:
+      - name: Install Hugo
+        run: |
+          export HUGO_DEB_FILE=hugo_extended_${VERSION}_Linux-64bit.deb
+          echo "Using URL: $HUGO_RELEASE_SRC/download/v$VERSION/$HUGO_DEB_FILE"
+          wget -q $HUGO_RELEASE_SRC/download/v$VERSION/$HUGO_DEB_FILE
+          sudo dpkg -i $HUGO_DEB_FILE
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
+      - name: Build production site
+        run: |
+          hugo
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: public-prod
+          path: public/
+      - name: Build draft site
+        run: |
+          rm -rf public/*
+          hugo -D
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: public-draft
+          path: public/
+
+  check-urls-prod:
+    needs: [hugo-build]
+    runs-on: [ubuntu-20.04]
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Download Hugo build
+        uses: actions/download-artifact@v3
+        with:
+          name: public-prod
+          path: public
+      - name: Docker setup
+        run: |
+          docker pull wjdp/htmltest:latest
+      - name: Run htmltest
+        run: |
+          docker run --rm -v $PWD:/test wjdp/htmltest:latest -c /test/.htmltest.yml /test/public
