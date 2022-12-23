@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2022-12-02
+date: 2022-12-23
 draft: false
 ---
 
@@ -11,5 +11,5 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 ## List of Publications
 
 ### 2022
-- [**"Graph-Based Specification and Automated Construction of ILP Problems"**](https://gcm2022.github.io/files/gcm2022-proceedings.pdf#page=5).\
+- [**"Graph-Based Specification and Automated Construction of ILP Problems"**](http://dx.doi.org/10.4204/EPTCS.374.3).\
 Sebastian Ehmes, Maximilian Kratz, Andy Schürr.
