@@ -1,0 +1,15 @@
+.post-content p {
+    text-align: justify;
+}
+
+body {
+    text-align: justify;
+}
+
+table, tr, td, th {
+    border-style: hidden;
+    border: hidden !important;
+    border-collapse: collapse;
+    border-left: hidden;
+    border-right: hidden;
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on GIPS Project Site</title>
+    <link>https://gips-framework.org/</link>
+    <description>Recent content in News on GIPS Project Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gips-framework.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://gips-framework.org/publications/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/publications/</guid>
+      <description>GIPS has been applied in some application scenarios and domains. In the following, we provide a collection of relevant publications. If you are using or have used GIPS in a project, publication, lecture, or similar, please contact us.
+List of Publications 2022 &amp;ldquo;Graph-Based Specification and Automated Construction of ILP Problems&amp;rdquo;.
+Sebastian Ehmes, Maximilian Kratz, Andy Schürr. </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gips-framework.org/contact/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/contact/</guid>
+      <description>You can send us an &amp;#32;&amp;#32; . Feel free to open issues on GitHub if you find any issues in GIPS.
+Technische Universität Darmstadt Department of Electrical Engineering and Information Technology Real-Time Systems Lab Merckstr. 25 64283 Darmstadt, Germany</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://gips-framework.org/dev/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/dev/</guid>
+      <description>GIPS is developed at the Real-Time Systems Lab, TU Darmstadt (TUDa). You can find the list of contributors on the GIPS developer page.
+The source code of GIPS is available at our GitHub repository.
+GIPS-specific development workspace set-up steps are available in the README.md file of the GIPS repository. We recommend the usage of our pre-built Eclipse application to start your development workspace.</description>
+    </item>
+    
+    <item>
+      <title>Development Team</title>
+      <link>https://gips-framework.org/dev-team/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/dev-team/</guid>
+      <description>GIPS is developed at the Real-Time Systems Lab, TU Darmstadt (TUDa). Feel free to contact us.
+Current Developers Sebastian Ehmes Maximilian Kratz </description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://gips-framework.org/download/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/download/</guid>
+      <description>Pre-built Eclipse Application (GIPS) Pre-built Virtual Machine (GIPS VM) Eclipse Update Site (GIPS) There are three ways to download GIPS:
+The pre-built Eclipse application The pre-built virtual machine The Eclipse update site. We recommend the usage of our pre-built Eclipse application.
+Pre-built Eclipse Application (GIPS) You can download the latest version of our pre-built Eclipse application from the release section of our GitHub repository.
+There are several versions available for Windows, Linux, and macOS:</description>
+    </item>
+    
+    <item>
+      <title>Getting started with GIPS</title>
+      <link>https://gips-framework.org/getting-started/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/getting-started/</guid>
+      <description>To get started with GIPS, you can use our pre-built GIPS Eclipse application.
+If you encounter any issues with the tutorial, feel free to open an issue on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>New Webpage</title>
+      <link>https://gips-framework.org/new-webpage/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips-framework.org/new-webpage/</guid>
+      <description>We launched the new GIPS webpage today!</description>
+    </item>
+    
+  </channel>
+</rss>

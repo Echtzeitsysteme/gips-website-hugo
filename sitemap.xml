@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gips-framework.org/publications/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/contact/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/dev/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/dev-team/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/download/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/getting-started/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/new-webpage/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/post/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips-framework.org/tags/</loc>
+  </url>
+</urlset>
