@@ -1,7 +1,7 @@
 # GIPS hugo website
 
 This repository holds all content and build-related files for the GIPS website:
-https://gips-framework.org
+https://gips.dev
 
 Responsible for deployment and maintainment: Max Kratz <[maximilian.kratz@es.tu-darmstadt.de](mailto:maximilian.kratz@es.tu-darmstadt.de)>
 

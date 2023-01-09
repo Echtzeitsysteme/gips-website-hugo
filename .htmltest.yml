@@ -4,7 +4,7 @@ IgnoreDirectoryMissingTrailingSlash: true
 CheckScripts: false
 IgnoreAltMissing: true
 IgnoreURLs:
-  - "gips-framework.org"
+  - "gips.dev"
 HTTPHeaders:
   "User-Agent": "chrome"
   "accept-encoding": "deflate"

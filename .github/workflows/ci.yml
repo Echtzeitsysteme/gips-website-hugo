@@ -63,3 +63,19 @@ jobs:
       - name: Run htmltest
         run: |
           docker run --rm -v $PWD:/test wjdp/htmltest:latest -c /test/.htmltest.yml /test/public
+
+  deploy-prod:
+    needs: [hugo-build, check-urls-prod]
+    runs-on: [ubuntu-20.04]
+    # Skip deploy job if branch is 'main'
+    if: ${{ github.ref == 'refs/heads/main' }}
+    steps:
+      - name: Download Hugo build
+        uses: actions/download-artifact@v3
+        with:
+          name: public-prod
+      - name: Deploy to GH pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .

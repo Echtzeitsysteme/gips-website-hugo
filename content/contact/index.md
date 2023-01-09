@@ -4,7 +4,7 @@ date: 2022-12-02
 draft: false
 ---
 
-You can send us an {{< cloakemail address="contact@gips-framework.org" query="subject=Message from the gips-framework.org webpage" display="email" >}}.
+You can send us an {{< cloakemail address="contact@gips.dev" query="subject=Message from the gips.dev webpage" display="email" >}}.
 Feel free to open issues on [GitHub](https://github.com/Echtzeitsysteme/gips) if you find any issues in **GIPS**.
 
 > Technische Universität Darmstadt \
