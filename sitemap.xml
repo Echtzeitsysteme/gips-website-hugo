@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gips-framework.org/publications/</loc>
+    <loc>https://gips.dev/new-webpage/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips.dev/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips.dev/post/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips.dev/publications/</loc>
     <lastmod>2022-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/contact/</loc>
+    <loc>https://gips.dev/contact/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/dev/</loc>
+    <loc>https://gips.dev/dev/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/dev-team/</loc>
+    <loc>https://gips.dev/dev-team/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/download/</loc>
+    <loc>https://gips.dev/download/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/getting-started/</loc>
+    <loc>https://gips.dev/getting-started/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gips-framework.org/new-webpage/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gips-framework.org/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gips-framework.org/post/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gips-framework.org/tags/</loc>
+    <loc>https://gips.dev/tags/</loc>
   </url>
 </urlset>
