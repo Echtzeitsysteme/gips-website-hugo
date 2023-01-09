@@ -68,7 +68,7 @@ jobs:
     needs: [hugo-build, check-urls-prod]
     runs-on: [ubuntu-20.04]
     # Skip deploy job if branch is 'main'
-    #if: ${{ github.ref == 'refs/heads/main' }}
+    if: ${{ github.ref == 'refs/heads/main' }}
     steps:
       - name: Download Hugo build
         uses: actions/download-artifact@v3
