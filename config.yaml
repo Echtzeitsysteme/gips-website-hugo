@@ -17,7 +17,7 @@ permalinks:
 params:
   # Header text, can be markdown
 #  project_name: "![](/img/emoflon_logo_with_tex_semitransparent_300px.png)"
-  project_name: "**GIPS** - **G**raph-based **I**LP **P**roblem **S**pecification Tool"
+  project_name: "**GIPS** - **G**raph-Based **I**LP **P**roblem **S**pecification Tool"
   project_tagline: "**GIPS** is a tool to built tools that automatically derive ILP problems from given graph specifications."
 
   # Theme customizations by us
