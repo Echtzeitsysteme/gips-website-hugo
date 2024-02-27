@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gips.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Development</title>
+      <link>https://gips.dev/dev/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gips.dev/dev/</guid>
+      <description>GIPS is developed at the Real-Time Systems Lab, TU Darmstadt (TUDa). You can find the list of contributors on the GIPS developer page.
+The source code of GIPS is available at our GitHub repository and it is based on eMoflon::IBeX
+GIPS-specific development workspace set-up steps are available in the README.md file of the GIPS repository. We recommend the usage of our pre-built Eclipse application to start your development workspace.</description>
+    </item>
+    
+    <item>
       <title>New Webpage</title>
       <link>https://gips.dev/new-webpage/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
@@ -35,17 +46,6 @@ Sebastian Ehmes, Maximilian Kratz, Andy Schürr. </description>
       <guid>https://gips.dev/contact/</guid>
       <description>You can send us an &amp;#32;&amp;#32; . Feel free to open issues on GitHub if you find any issues in GIPS.
 Technische Universität Darmstadt Department of Electrical Engineering and Information Technology Real-Time Systems Lab Merckstr. 25 64283 Darmstadt, Germany</description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://gips.dev/dev/</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://gips.dev/dev/</guid>
-      <description>GIPS is developed at the Real-Time Systems Lab, TU Darmstadt (TUDa). You can find the list of contributors on the GIPS developer page.
-The source code of GIPS is available at our GitHub repository.
-GIPS-specific development workspace set-up steps are available in the README.md file of the GIPS repository. We recommend the usage of our pre-built Eclipse application to start your development workspace.</description>
     </item>
     
     <item>
