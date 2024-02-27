@@ -15,7 +15,6 @@ First experiments show that the derived ILP problem generators can compete with 
 
 ---
 
-**This work has been funded by the German Research Foundation (DFG) within
-the Collaborative Research Center (CRC) 1053 [MAKI](https://www.maki.tu-darmstadt.de).**
+**This work has been funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project-ID 210487104 - [SFB 1053](https://www.maki.tu-darmstadt.de).**
 
 ---
