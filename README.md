@@ -44,10 +44,10 @@ For contributing, you need the following things:
 
 Please follow this (official) [installation guide of Hugo](https://gohugo.io/getting-started/installing/).
 
-This project uses Hugo version `0.101.0` **extended** or newer.
+This project uses Hugo version `0.134.2` **extended** or newer.
 Please notice that some standard packet sources like Debian/Ubuntu **do not provide the minimum required version**.
 
-The easiest way to get the required version up and running is to download it from [Github](https://github.com/gohugoio/hugo/releases/tag/v0.101.0) and install it by hand.
+The easiest way to get the required version up and running is to download it from [Github](https://github.com/gohugoio/hugo/releases/tag/v0.134.2) and install it by hand.
 Detailed steps for an installation from Github [are described on this page](https://gohugo.io/getting-started/installing/#install-hugo-from-tarball).
 
 It is important that you can start Hugo from your terminal and that it states the correct version number.
@@ -55,7 +55,7 @@ You may check it using this command:
 
 ```bash
 $ hugo version
-hugo v0.101.0-466fa43c16709b4483689930a4f9ac8add5c9f66+extended linux/amd64 BuildDate=2022-06-16T07:09:16Z VendorInfo=gohugoio
+hugo v0.134.2+extended darwin/arm64 BuildDate=2024-09-10T10:46:33Z VendorInfo=brew
 ```
 
 **Tip**: Use the exact version stated above to prevent version incompatibilities.
@@ -63,11 +63,11 @@ This version is also used by our [CI-Pipeline](#pipeline).
 
 Required downloads may be found here:
 
-* [Github release page](https://github.com/gohugoio/hugo/releases/tag/v0.101.0)
-* [Direct download Linux (deb)](https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_extended_0.101.0_Linux-64bit.deb)
-* [Direct download Linux (tar)](https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_extended_0.101.0_Linux-64bit.tar.gz)
-* [Direct download macOS](https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_extended_0.101.0_macOS-64bit.tar.gz)
-* [Direct download Windows](https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_extended_0.101.0_Windows-64bit.zip)
+* [Github release page](https://github.com/gohugoio/hugo/releases/tag/v0.134.2)
+* [Direct download Linux (deb)](https://github.com/gohugoio/hugo/releases/download/v0.134.2/hugo_extended_0.134.2_linux-amd64.deb)
+* [Direct download Linux (tar)](https://github.com/gohugoio/hugo/releases/download/v0.134.2/hugo_extended_0.134.2_linux-amd64.tar.gz)
+* [Direct download macOS](https://github.com/gohugoio/hugo/releases/download/v0.134.2/hugo_extended_0.134.2_darwin-universal.tar.gz)
+* [Direct download Windows](https://github.com/gohugoio/hugo/releases/download/v0.134.2/hugo_extended_0.134.2_windows-amd64.zip)
 
 ### Usage of Hugo
 
