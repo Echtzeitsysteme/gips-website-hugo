@@ -10,7 +10,7 @@ on:
 
 env:
   # Hugo version to use
-  VERSION: "0.101.0"
+  VERSION: "0.134.2"
   # Hugo release source
   HUGO_RELEASE_SRC: "https://github.com/gohugoio/hugo/releases"
 
@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Install Hugo
         run: |
-          export HUGO_DEB_FILE=hugo_extended_${VERSION}_Linux-64bit.deb
+          export HUGO_DEB_FILE=hugo_extended_${VERSION}_linux-amd64.deb
           echo "Using URL: $HUGO_RELEASE_SRC/download/v$VERSION/$HUGO_DEB_FILE"
           wget -q $HUGO_RELEASE_SRC/download/v$VERSION/$HUGO_DEB_FILE
           sudo dpkg -i $HUGO_DEB_FILE
