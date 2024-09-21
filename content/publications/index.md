@@ -11,7 +11,7 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 ## List of Publications
 
 ### 2024
-<!-https://doi.org/10.1007/978-3-031-71874-8_9->
+<!--https://doi.org/10.1007/978-3-031-71874-8_9-->
 - [**"Generating Training Data Sets for Machine Learning Approaches with GIPS"**](https://link.springer.com/chapter/10.1007/978-3-031-71874-8_9).\
 Maximilian Kratz, Sebastian Ehmes, Marco Volle, Andy Schürr.
 
