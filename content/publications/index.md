@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2024-09-18
+date: 2024-10-10
 draft: false
 ---
 
@@ -9,6 +9,11 @@ In the following, we provide a collection of relevant publications.
 If you are using or have used **GIPS** in a project, publication, lecture, or similar, please contact us.
 
 ## List of Publications
+
+### 2025
+
+- [**"Model-Driven Rapid Prototyping for Control Algorithms with the GIPS Framework (System Description)"**](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?GCM2023:3321) (To appear).\
+Maximilian Kratz, Sebastian Ehmes, Philipp Maximilian Menzel, Andy Schürr.
 
 ### 2024
 <!--https://doi.org/10.1007/978-3-031-71874-8_9-->
