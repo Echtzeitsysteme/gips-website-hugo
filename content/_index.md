@@ -9,7 +9,7 @@ However, designing and specifying complex optimization problems from more abstra
 A designer must be an expert in the specific problem domain as well as the ILP optimization domain to translate the given problem into avalid ILP problem.
 Typically, domain-specific ILP problem generators are hand-crafted by experts, to avoid specifying a new ILP problem by hand for each new instance of a problem domain.
 Unfortunately, the task of writing ILP problem generators is an exercise, which has to be repeated for each new scenario, tool, and approach.
-For this purpose, we introduce the **GIPS** (**G**raph-Based **I**LP **P**roblem **S**pecification Tool) framework that simplifies the development of ILP problem generators for graph-based optimization problems and a new Domain-Specific Language (DSL) called **GIPSL** (**G**raph-Based **I**LP **P**roblem **S**pecification **L**anguage) that integrates GT and ILP problems on an abstract level.
+For this purpose, we introduce the **GIPS** (**G**raph-Based (M)**I**LP **P**roblem **S**pecification Tool) framework that simplifies the development of ILP problem generators for graph-based optimization problems and a new Domain-Specific Language (DSL) called **GIPSL** (**G**raph-Based (M)**I**LP **P**roblem **S**pecification **L**anguage) that integrates GT and ILP problems on an abstract level.
 Our approach uses GIPSL specifications as a starting point to derive ILP problem generators for a specific application domain automatically.
 First experiments show that the derived ILP problem generators can compete with hand-crafted programs developed by ILP experts.
 
