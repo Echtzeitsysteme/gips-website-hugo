@@ -16,10 +16,7 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 Maximilian Kratz, Sebastian Ehmes, Philipp Maximilian Menzel, Andy Schürr.
 
 ### 2024
-<!--https://doi.org/10.1007/978-3-031-71874-8_9-->
-<!--https://link.springer.com/chapter/10.1007/978-3-031-71874-8_9-->
-<!--https://www.springerprofessional.de/en/generating-training-data-sets-for-machine-learning-approaches-wi/50002264-->
-- [**"Generating Training Data Sets for Machine Learning Approaches with GIPS"**](https://doi.org/10.1007/978-3-031-71874-8).\
+- [**"Generating Training Data Sets for Machine Learning Approaches with GIPS"**](https://link.springer.com/chapter/10.1007/978-3-031-71874-8_9).\
 Maximilian Kratz, Sebastian Ehmes, Marco Volle, Andy Schürr.
 
 ### 2022
