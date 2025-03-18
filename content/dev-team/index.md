@@ -12,3 +12,4 @@ Feel free to [contact us](../contact).
 
 - [Sebastian Ehmes](https://www.es.tu-darmstadt.de/es/team/sebastian-ehmes/)
 - [Maximilian Kratz](https://www.es.tu-darmstadt.de/es/team/maximilian-kratz)
+- Markus Blank
