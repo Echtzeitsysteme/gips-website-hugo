@@ -11,8 +11,7 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 ## List of Publications
 
 ### 2025
-
-- [**"Model-Driven Rapid Prototyping for Control Algorithms with the GIPS Framework (System Description)"**](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?GCM2023:3321) (To appear).\
+- [**"Model-Driven Rapid Prototyping for Control Algorithms with the GIPS Framework (System Description)"**](https://dx.doi.org/10.4204/EPTCS.417.9).\
 Maximilian Kratz, Sebastian Ehmes, Philipp Maximilian Menzel, Andy Schürr.
 
 ### 2024
