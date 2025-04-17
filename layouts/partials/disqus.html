@@ -1,6 +1,0 @@
-{{ $ctx := . }}
-{{ with $.Site.Config.Services.Disqus.Shortname }}
-  {{ if ne . "yourdiscussshortname" }}
-    {{ template "_internal/disqus.html" $ctx }}
-  {{ end }}
-{{ end }}
