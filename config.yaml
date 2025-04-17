@@ -28,7 +28,7 @@ params:
   dateFormat: 2006-01-02
 
   # Footer text, can be markdown
-  footer: "&copy; 2022-2025 [GIPS Dev Team](/dev-team) &bull; Built with [Hugo](https://gohugo.io/) &bull; [Theme](https://github.com/zwbetz-gh/cayman-hugo-theme) &bull; [Legal Notice](https://www.es.tu-darmstadt.de/impressum) &bull; [Privacy Policy](https://www.es.tu-darmstadt.de/es/datenschutzerklaerung) &bull; [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)."
+  footer: "&copy; 2022-2025 [GIPS Dev Team](/dev-team) &bull; Built with [Hugo](https://gohugo.io/) &bull; [Theme](https://github.com/maxkratz/cayman-hugo-theme) &bull; [Legal Notice](https://www.es.tu-darmstadt.de/impressum) &bull; [Privacy Policy](https://www.es.tu-darmstadt.de/es/datenschutzerklaerung) &bull; [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)."
 
   # If true, make sure to include resources locally
   # If true, the CSS/JS for Katex math typesetting are enabled
