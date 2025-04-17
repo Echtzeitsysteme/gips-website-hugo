@@ -6,8 +6,15 @@
     <description>Recent content in Posts on GIPS Project Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gips.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IHTC 2024 solution submitted</title>
+      <link>https://gips.dev/ihtc-2024/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gips.dev/ihtc-2024/</guid>
+      <description>&lt;p&gt;We submitted a &lt;strong&gt;GIPS&lt;/strong&gt;-based solution to the &lt;a href=&#34;https://ihtc2024.github.io/&#34;&gt;International Healthcare Timetabling Competition (IHTC) 2024&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Our solution can be found in the &lt;a href=&#34;https://github.com/Echtzeitsysteme/gips-examples/tree/main/ihtcgipssolution.softcnstrtuning&#34;&gt;gips-examples&lt;/a&gt; repository.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Webpage</title>
       <link>https://gips.dev/new-webpage/</link>
