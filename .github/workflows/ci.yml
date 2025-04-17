@@ -10,13 +10,13 @@ on:
 
 env:
   # Hugo version to use
-  VERSION: "0.134.2"
+  VERSION: "0.146.5"
   # Hugo release source
   HUGO_RELEASE_SRC: "https://github.com/gohugoio/hugo/releases"
 
 jobs:
   hugo-build:
-    runs-on: [ubuntu-22.04]
+    runs-on: [ubuntu-24.04]
     steps:
       - name: Install Hugo
         run: |
@@ -48,7 +48,7 @@ jobs:
 
   check-urls-prod:
     needs: [hugo-build]
-    runs-on: [ubuntu-22.04]
+    runs-on: [ubuntu-24.04]
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -66,7 +66,7 @@ jobs:
 
   deploy-prod:
     needs: [hugo-build, check-urls-prod]
-    runs-on: [ubuntu-22.04]
+    runs-on: [ubuntu-24.04]
     # Skip deploy job if branch is 'main'
     if: ${{ github.ref == 'refs/heads/main' }}
     steps:
