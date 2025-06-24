@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gips.dev/</loc>
-    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips.dev/publications/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gips.dev/projects/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
@@ -13,9 +16,6 @@
   </url><url>
     <loc>https://gips.dev/post/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gips.dev/publications/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gips.dev/dev/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
