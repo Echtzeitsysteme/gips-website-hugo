@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2025-04-17
+date: 2025-06-25
 draft: false
 ---
 
@@ -11,7 +11,7 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 ## Selected List of Projects
 
 <!-- TODO: add our implementation of the INRC 1 -->
-- [**International Healthcare Timetabling Competition (IHTC) 2024**](https://github.com/Echtzeitsysteme/gips-examples/tree/main/ihtcgipssolution.softcnstrtuning)
+- [**International Healthcare Timetabling Competition (IHTC) 2024**](https://github.com/Echtzeitsysteme/gips-ihtc-2024-submission)
   - Our solution to the [IHTC 2024](https://ihtc2024.github.io/)
 - [**Class Responsibility Assignment (CRA)**](https://github.com/Echtzeitsysteme/gips-examples/tree/main/architecture.cra.gipssolution) <!-- TODO: add extended ICGT 2024 paper here -->
 - [**Person to Task Assignment**](https://github.com/Echtzeitsysteme/gips-examples) <!-- TODO: add Sebastian's dissertation here -->
