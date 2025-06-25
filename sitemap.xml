@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gips.dev/ihtc-2024/</loc>
+    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gips.dev/</loc>
-    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gips.dev/projects/</loc>
+    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gips.dev/publications/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gips.dev/projects/</loc>
-    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gips.dev/ihtc-2024/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
