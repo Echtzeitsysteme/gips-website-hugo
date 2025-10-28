@@ -32,7 +32,7 @@ jobs:
         run: |
           hugo
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: public-prod
           path: public/
@@ -41,7 +41,7 @@ jobs:
           rm -rf public/*
           hugo -D
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: public-draft
           path: public/
