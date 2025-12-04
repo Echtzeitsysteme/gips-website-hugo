@@ -5,6 +5,7 @@ CheckScripts: false
 IgnoreAltMissing: true
 IgnoreURLs:
   - "gips.dev"
+  - "hipe-devops.github.io"
 HTTPHeaders:
   "User-Agent": "chrome"
   "accept-encoding": "deflate"
