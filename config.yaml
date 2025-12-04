@@ -81,9 +81,12 @@ menu:
     - name: "Projects"
       url: /projects/
       weight: 6
+    - name: "Links"
+      url: /links/
+      weight: 7
     - name: "Contact"
       url: /contact/
-      weight: 7
+      weight: 8
 #    - name: RSS
 #      url: /index.xml
-#      weight: 8
+#      weight: 9
