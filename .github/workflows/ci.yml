@@ -32,7 +32,7 @@ jobs:
         run: |
           hugo
       - name: Upload artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: public-prod
           path: public/
@@ -41,7 +41,7 @@ jobs:
           rm -rf public/*
           hugo -D
       - name: Upload artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: public-draft
           path: public/
@@ -53,7 +53,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v6
       - name: Download Hugo build
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           name: public-prod
           path: public
@@ -71,7 +71,7 @@ jobs:
     if: ${{ github.ref == 'refs/heads/main' }}
     steps:
       - name: Download Hugo build
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           name: public-prod
       - name: Deploy to GH pages
