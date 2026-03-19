@@ -6,6 +6,7 @@ IgnoreAltMissing: true
 IgnoreURLs:
   - "gips.dev"
   - "hipe-devops.github.io"
+  - "https://lmcs.episciences.org/17597"
 HTTPHeaders:
   "User-Agent": "chrome"
   "accept-encoding": "deflate"
