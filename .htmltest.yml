@@ -10,3 +10,4 @@ IgnoreURLs:
 HTTPHeaders:
   "User-Agent": "chrome"
   "accept-encoding": "deflate"
+IgnoreSSLVerify: true
