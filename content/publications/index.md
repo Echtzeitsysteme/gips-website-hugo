@@ -11,6 +11,8 @@ If you are using or have used **GIPS** in a project, publication, lecture, or si
 ## List of Publications
 
 ### 2026
+- [**"Using model-driven techniques for specifying and solving optimisation problems in the healthcare domain: A case study based on the Integrated Healthcare Timetabling Problem"**](https://doi.org/10.1145/3837062.3839356).\
+Maximilian Kratz, Jule Pfau, Steffen Zschaler, Jens Kosiol, Andy Schürr.
 - [**"Using weakest application conditions to rank graph transformations for graph repair"**](https://lmcs.episciences.org/17597).\
 Lars Fritsche, Alexander Lauer, Maximilian Kratz, Andy Schürr, Gabriele Taentzer.
 
