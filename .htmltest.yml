@@ -7,6 +7,7 @@ IgnoreURLs:
   - "gips.dev"
   - "hipe-devops.github.io"
   - "https://lmcs.episciences.org/17597"
+  - "https://doi.org/10.1145/3837062.3839356"
 HTTPHeaders:
   "User-Agent": "chrome"
   "accept-encoding": "deflate"
